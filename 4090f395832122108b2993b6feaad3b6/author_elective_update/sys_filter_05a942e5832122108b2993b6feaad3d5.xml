@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter">
+    <sys_filter action="DELETE">
+        <filter table="x_1649931_unit_professores">ativo=true^EQ<item endquery="false" field="ativo" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <group/>
+        <last_used/>
+        <mobile>false</mobile>
+        <roles/>
+        <sys_class_name>sys_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-16 12:16:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>05a942e5832122108b2993b6feaad3d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Alunos Ativos</sys_name>
+        <sys_package display_value="UNIT" source="x_1649931_unit">4090f395832122108b2993b6feaad3b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">4090f395832122108b2993b6feaad3b6</sys_scope>
+        <sys_update_name>sys_filter_05a942e5832122108b2993b6feaad3d5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-16 12:16:25</sys_updated_on>
+        <table>x_1649931_unit_professores</table>
+        <title>Alunos Ativos</title>
+        <user/>
+    </sys_filter>
+    <sys_translated_text action="DELETE" query="documentkey=05a942e5832122108b2993b6feaad3d5"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UNIT">4090f395832122108b2993b6feaad3b6</application>
+        <file_path/>
+        <instance_id>2fe478bc1bfe4a9cc8432f8dee4bcbc0</instance_id>
+        <instance_name>dev274590</instance_name>
+        <name>sys_filter_05a942e5832122108b2993b6feaad3d5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter"><sys_filter action="INSERT_OR_UPDATE"><filter table="x_1649931_unit_professores">ativo=true^EQ<item endquery="false" field="ativo" goto="false" newquery="false" operator="=" or="false" value="true"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><group/><last_used/><mobile>false</mobile><roles/><sys_class_name>sys_filter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-16 12:16:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>05a942e5832122108b2993b6feaad3d5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Alunos Ativos</sys_name><sys_package display_value="UNIT" source="x_1649931_unit">4090f395832122108b2993b6feaad3b6</sys_package><sys_policy/><sys_scope display_value="UNIT">4090f395832122108b2993b6feaad3b6</sys_scope><sys_update_name>sys_filter_05a942e5832122108b2993b6feaad3d5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-16 12:16:25</sys_updated_on><table>x_1649931_unit_professores</table><title>Alunos Ativos</title><user/></sys_filter><sys_translated_text action="delete_multiple" query="documentkey=05a942e5832122108b2993b6feaad3d5"/></record_update>]]></payload>
+        <payload_hash>-1158664</payload_hash>
+        <record_name>Alunos Ativos</record_name>
+        <reverted_from/>
+        <source>8c907fd5832122108b2993b6feaad38e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-16 12:16:26</sys_created_on>
+        <sys_id>49a942e5832122108b2993b6feaad3d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196d9063abf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-16 12:16:26</sys_updated_on>
+        <type>Filter</type>
+        <update_guid>49a942e54c2122107ceca15f449ed2d7</update_guid>
+        <update_guid_history>49a942e54c2122107ceca15f449ed2d7:-1158664</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-16 13:12:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_filter">sys_filter</sys_db_object>
+        <sys_id>287cb6d84d624fdfae0a68537cb8f8b9</sys_id>
+        <sys_metadata>05a942e5832122108b2993b6feaad3d5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Alunos Ativos</sys_name>
+        <sys_package display_value="UNIT" source="x_1649931_unit">4090f395832122108b2993b6feaad3b6</sys_package>
+        <sys_parent display_value="Professores">4a43b75d832122108b2993b6feaad3da</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">4090f395832122108b2993b6feaad3b6</sys_scope>
+        <sys_scope_delete display_value="">0e437a6bc2c945808b5f967050b06604</sys_scope_delete>
+        <sys_update_name>sys_filter_05a942e5832122108b2993b6feaad3d5</sys_update_name>
+        <sys_update_version display_value="sys_filter_05a942e5832122108b2993b6feaad3d5">49a942e5832122108b2993b6feaad3d8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-16 13:12:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Usuários da UNIT</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1649931_unit.UNIT_usuario</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>UNIT_usuario</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-16 14:36:45</sys_created_on>
+        <sys_id>12792e2d83a122108b2993b6feaad331</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1649931_unit.UNIT_usuario</sys_name>
+        <sys_package display_value="UNIT" source="x_1649931_unit">4090f395832122108b2993b6feaad3b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">4090f395832122108b2993b6feaad3b6</sys_scope>
+        <sys_update_name>sys_user_role_12792e2d83a122108b2993b6feaad331</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-16 14:36:45</sys_updated_on>
+    </sys_user_role>
+</record_update>

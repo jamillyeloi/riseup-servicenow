@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="enfase" table="x_1649931_unit_alunos" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>enfase</element>
+            <name>x_1649931_unit_alunos</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 00:41:55</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>enfase</sys_name>
+            <sys_package display_value="UNIT" source="x_1649931_unit">4090f395832122108b2993b6feaad3b6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UNIT">4090f395832122108b2993b6feaad3b6</sys_scope>
+            <sys_update_name>sys_choice_x_1649931_unit_alunos_enfase</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 00:41:55</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>enfase</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Back-End</label>
+            <language>en</language>
+            <name>x_1649931_unit_alunos</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 00:42:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 00:43:23</sys_updated_on>
+            <value>Back-End</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>enfase</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Data Science</label>
+            <language>en</language>
+            <name>x_1649931_unit_alunos</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 00:42:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 00:43:17</sys_updated_on>
+            <value>Data Science</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>enfase</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Desenvolvimento Web</label>
+            <language>en</language>
+            <name>x_1649931_unit_alunos</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 00:41:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 00:43:11</sys_updated_on>
+            <value>Desenvolvimento Web</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>enfase</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Front-End</label>
+            <language>en</language>
+            <name>x_1649931_unit_alunos</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 00:42:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 00:43:32</sys_updated_on>
+            <value>Front-End</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
